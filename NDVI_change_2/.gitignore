@@ -1,0 +1,9 @@
+
+.Rproj.user
+=======
+# Ignore floders named output and data
+output/
+data/
+
+.Rproj.user/3037AE7D
+
