@@ -13,4 +13,4 @@ The [Normalized Difference Vegetation Index](https://en.wikipedia.org/wiki/Norma
 - The data was downloaded from the dropbox into the script
 - 2 functions were defined and used for pre-processing the data
 - The two Landsat products were visualized as RGB images and saved as a `.png` files
-- The resulting NDVI comparison map was visualized, conclusions were drawn, and saved as a `.png` fil
+- The resulting NDVI comparison map was visualized, conclusions were drawn, and saved as a `.png` file
